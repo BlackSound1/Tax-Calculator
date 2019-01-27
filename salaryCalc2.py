@@ -1,5 +1,5 @@
 # Tax calculator for Canadian and Quebec income tax 2016. 
-# Matthew Segal
+# 
 # v. 1.1
 #
 
